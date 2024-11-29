@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - TorreAtaque
+  - TorreAlmacenamiento
+  - TorreDefensa
+  - Proyectil
+  - Enemigo
+  - VidaBase
+  - Suelo
+  - TorrePrincipal
   layers:
   - Default
   - TransparentFX
